@@ -1,8 +1,6 @@
-// Code6.cpp : This file contains the 'main' function. Program execution begins and ends there.
-// Kelvin Kyei Baffour 
-// CIS 1111
-// CH 4 - Conditional Processing
-// Total Calculation of A Shopping
+// GroceryShoppingCalculator.cpp
+// Console-based grocery shopping calculator
+// Author: Kelvin Kyei Baffour
 
 #include <iostream>
 #include <iomanip>
